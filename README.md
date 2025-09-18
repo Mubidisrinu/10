@@ -18,7 +18,7 @@
         <h2>Skills</h2>
         <ul>
             <li>Python</li>
-            <li>JavaScript</li>
+            <li>CSS</li>
             <li>HTML</li>
         </ul>
     </section>
