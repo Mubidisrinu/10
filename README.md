@@ -8,7 +8,7 @@
 <body>
     <header>
         <img src ="photo.jpg" alt ="my photo" width="150" height="150">
-        <h1>Anand Akula</h1>
+        <h1>SRINU MUBIDI</h1>
         <h2>Drone Pilot</h2>
         <p><strong>📍 Location:</strong> AP, India</p>
         <p><strong>📩 Email:</strong><a href="mailto:srinumubidi2021@gmail.com">srinumubidi2021@gmail.com</a></p>
