@@ -17,7 +17,7 @@
     <section>
         <h2>Skills</h2>
         <ul>
-            <li>C language</li>
+            <li>Python</li>
             <li>JavaScript</li>
             <li>HTML</li>
         </ul>
